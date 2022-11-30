@@ -1,0 +1,9 @@
+El principal objetivo del analisis de los datos de la empresa ha sido la elaboración de una prediccion sobre la cantidad a comprar de cada ingrediente por semana.
+Para ello se ha utilizado el metodo de ventana deslizante y se ha calculado la moda de cada pizza de entre el numero de pedidos de dicha pizza por cada semana de 2016.
+Para hacer la estimacion de cantidades asumimos que cada pizza S contiene 1 unidad de cada ingrediente segun su tipo.
+El resto de tipos los ponderamos de la siguiente manera:
+
+Pizza M : El numero de unidades por ingrediente es 1,5
+Pizza L : El numero de unidades por ingrediente es 2
+Pizza XL : El numero de unidades por ingrediente es 2,5
+Pizza XXL : El numero de unidades por ingrediente es 3

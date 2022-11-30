@@ -1,0 +1,4 @@
+En este documento se incluiran los aspectos mas destacables del analisis exhaustivo realizado sobre los datos de la empresa Maven Pizzas durante el 2016. 
+El objetivo de dicho analisis ha sido conseguir realizar una prediccion adecuada para proponerle a la empresa la que, segun los datos, seria la mejor manera de distribuir su presupuesto semanal entre los ingredientes implementados en la elaboracion de su producto.
+
+A continuacion seran expuestos los resultados de dicho estudio de manera analitica y visual.

@@ -1,0 +1,4 @@
+Para aclarar el metodo utilizado para analizar los datos adjuntamos la siguiente grafica.
+En ella podemos observar los distintos valores que toman las modas por cada tipo de pizza. Este valor no es sino el valor mas repetido (a lo largo de 2016) de pedidos semanales de la pizza en cuestion.
+Es decir, de todos los pedidos por tipo de pizza hechos cada semana, tomamos como medida representativa el valor que mas se repite entre ellos.
+Las modas calculadas por cada tipo de pizza son las siguientes:
